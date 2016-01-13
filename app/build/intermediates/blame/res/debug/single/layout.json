@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_to_do.xml",
+        "source": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\src\\main\\res\\layout\\activity_to_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_to_do.xml",
+        "source": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\src\\main\\res\\layout\\row_list_to_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_text_view.xml",
+        "source": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\src\\main\\res\\layout\\row_list_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_check_box.xml",
+        "source": "C:\\Users\\qiwan\\Downloads\\yummyco_Android\\yummyco\\app\\src\\main\\res\\layout\\row_list_check_box.xml"
+    }
+]
